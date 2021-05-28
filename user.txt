@@ -1,0 +1,8 @@
+USER
+
+nome:
+cognome:
+eta:
+città:
+Provincia:
+indirizzo:
